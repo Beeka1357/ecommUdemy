@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/fiamme.webp') }}" width="100px">
